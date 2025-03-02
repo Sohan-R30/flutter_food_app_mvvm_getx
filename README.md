@@ -207,13 +207,11 @@ This function converts a Dart object (Meal) back into JSON.
 
 
 ---
-
-## License
-This project is MIT Licensed – feel free to use and modify it.
+feel free to use and modify it.
 
 
 ## Contributing
-Pull requests are welcome! If you'd like to contribute, please fork the repository and submit a PR.
+Pull requests are welcome! Please fork the repository and submit a PR if you'd like to contribute.
 
 ### Author
 ##### Md Zahidul Islam Shohan
@@ -222,7 +220,7 @@ Pull requests are welcome! If you'd like to contribute, please fork the reposito
 
 **[LinkedIn](https://www.linkedin.com/in/md-zahidul-islam-shohan/)**
 
-**[Your Portfolio](https://zis-softworks.vercel.app/)**
+**[Portfolio](https://zis-softworks.vercel.app/)**
 
 
 
@@ -238,5 +236,3 @@ Pull requests are welcome! If you'd like to contribute, please fork the reposito
 4. **Customize as needed** (e.g., add features or changes).  
 
 This `README.md` will make your **GitHub repo look professional** and **impressive to recruiters**! 🚀🔥  
-
-Let me know if you need any modifications. 😊
